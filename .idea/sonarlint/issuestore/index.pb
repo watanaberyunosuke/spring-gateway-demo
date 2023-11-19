@@ -15,28 +15,18 @@ y
 Ijpa-service/src/main/java/com/example/jpaservice/service/FishService.java,8/8/8835bb3339d38b1c4053ee9b943ca91f2553dfac
 {
 Kjpa-service/src/main/java/com/example/jpaservice/response/FishResponse.java,7/d/7d95549e4acca4831002f8fa50639bdfcc0c53de
-á
-Wjpa-service/src/main/java/com/example/jpaservice/service/ResourceNotFoundException.java,6/b/6b44a0763deae47253404a30bac648ac528805b7
 â
 Yjpa-service/src/main/java/com/example/jpaservice/exception/ResourceNotFoundException.java,b/c/bc753b27cbb2916bcb80b53f2ae5fe1629ac47e5
-Ö
-Ujpa-service/src/main/java/com/example/jpaservice/exception/GlobalExeptionHandler.java,3/3/33194ec8a821caf9504c098c4b65deb25a34bc9a
 Ü
 Vjpa-service/src/main/java/com/example/jpaservice/exception/GlobalExceptionHandler.java,b/2/b26770ff3d0b992aa65d5264b466ce0d9cf64f8e
 á
 Wservice-gateway/src/main/java/com/example/servicegateway/ServiceGatewayApplication.java,f/b/fb9335ee0ca4fc5d39462061f97e5c554ac918be
-á
-Wservice-gateway/src/main/java/com/example/servicegateway/controller/FishController.java,8/8/8836cce58019029dcef7f3317ea28812144d7a39
 å
 \service-gateway/src/main/java/com/example/servicegateway/controller/SmokeTestController.java,4/d/4d421c35816f9212d87e2a3824516b53bcbdfd81
-Å
-Q.idea/sonarlint/securityhotspotstore/6/b/6b44a0763deae47253404a30bac648ac528805b7,a/0/a05840ef31a87bef311b78a18b2fe1f7429fa394
 a
 1jpa-service/.mvn/wrapper/maven-wrapper.properties,a/1/a17cd31a3edf21278b8edf68652801257d75c70a
 Ä
 Pjpa-service/src/test/java/com/example/jpaservice/JpaServiceApplicationTests.java,3/4/3470c381cbcdd1e1e8af5c0393f9f052ad5b4a1c
-w
-G.idea/sonarlint/issuestore/6/b/6b44a0763deae47253404a30bac648ac528805b7,d/9/d92777d15e8e913aa5367e35a357956cb7ca8e04
 Å
 Q.idea/sonarlint/securityhotspotstore/b/2/b26770ff3d0b992aa65d5264b466ce0d9cf64f8e,5/a/5a2459e8a5754d0d47d318ef71c8dafca2a5d480
 Å
@@ -45,8 +35,6 @@ w
 G.idea/sonarlint/issuestore/b/c/bc753b27cbb2916bcb80b53f2ae5fe1629ac47e5,f/e/feb0d1b8981249a7152c94be5229b527870a9542
 D
 jpa-service/mvnw.cmd,b/3/b386e599dc9f6ad2f00a830e80c005dbf02c3fc1
-Å
-Q.idea/sonarlint/securityhotspotstore/3/3/33194ec8a821caf9504c098c4b65deb25a34bc9a,6/5/6537dc2494ba0665a69665aa98a0a380501fce73
 @
 jpa-service/mvnw,d/6/d67c3777fad00b75389f20e565f2e75f38254c0d
 F
@@ -63,14 +51,10 @@ w
 G.idea/sonarlint/issuestore/e/3/e30d6da23efe6622c7bf9431b10b3936ece40ace,d/7/d7d93ca874ca6cc3169ae105a7304e4106abc8d3
 ]
 -.idea/sonarlint/securityhotspotstore/index.pb,8/8/88a9255124c95bdc913197c120a8d560edc59c8e
-w
-G.idea/sonarlint/issuestore/8/8/8836cce58019029dcef7f3317ea28812144d7a39,b/1/b1ec431b909e9a2d57491232e049681e79d4ee35
 Å
 Q.idea/sonarlint/securityhotspotstore/0/6/067e6f006f22beefbf3854e3edc8f865c5040f4e,e/5/e53898f5250230882d054b2928932b9b5ec85008
 S
 #.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
-Å
-Q.idea/sonarlint/securityhotspotstore/8/8/8836cce58019029dcef7f3317ea28812144d7a39,b/f/bf7ab942cb53d87d1d1ee12fa3cd5c307bb71dc9
 L
 .idea/codeStyles/Project.xml,6/e/6ecd6000a7b6f4a2884412ff19f74193ed089648
 T
@@ -105,3 +89,10 @@ w
 G.idea/sonarlint/issuestore/7/d/7d95549e4acca4831002f8fa50639bdfcc0c53de,7/2/725e2cf9ffa501b32dd47286ebf4e17954e5d3b1
 w
 Gjpa-service/src/main/java/com/example/jpaservice/config/FishConfig.java,4/b/4ba525a0ff3d9eadacf317fafa3bfbe5d65ae1be
+8
+fish.sql,0/c/0c2982c1bc2056b5ae1dc6eaedd5b328768d534a
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
