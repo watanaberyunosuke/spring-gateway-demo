@@ -1,0 +1,12 @@
+server:
+  port: 8085
+spring:
+  application:
+    name:API_GATEWAY
+  cloud:
+    gateway:
+      routes:
+        - id: fish
+          uri: http://localhost:8080
+          predicates:
+            - Path=/fish/**
